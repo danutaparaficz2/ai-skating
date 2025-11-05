@@ -140,3 +140,5 @@ models/
 # Cache directories
 .cache/
 *.cache/
+
+output/
