@@ -40,9 +40,11 @@ QWEN_API_URL = os.getenv("QWEN_API_URL") or os.getenv("DASHSCOPE_HTTP_BASE_URL")
 QWEN_API_KEY = os.getenv("QWEN_API_KEY") or os.getenv("DASHSCOPE_API_KEY")
 import certifi
 # Simple defaults
-INPUT_IMAGE_PATH = os.getenv("INPUT_IMAGE_PATH", "Milad.jpg")
+INPUT_IMAGE_PATH = os.getenv("INPUT_IMAGE_PATH", "danka.jpg")
 OUTPUT_IMAGE_PATH = os.getenv("OUTPUT_IMAGE_PATH", "output_remote.png")
-PROMPT = os.getenv("PROMPT", "Convert the image into a stunning, detailed Japanese anime style, high quality, vibrant colors, cinematic lighting.")
+#PROMPT = os.getenv("PROMPT", "Convert the image into a stunning, detailed Japanese anime style, high quality, vibrant colors, cinematic lighting. Keep facial characteristics similar to the original photo.")
+PROMPT = os.getenv("PROMPT", "Convert the image into a stunning, detailed Japanese anime style, high quality, vibrant colors, cinematic lighting. Keep facial characteristics similar to the original photo.")
+
 NEGATIVE_PROMPT = os.getenv("NEGATIVE_PROMPT", "low quality, bad anatomy, blurry, unrealistic, cgi, 3d, rendering, photo, cropped")
 NUM_STEPS = int(os.getenv("NUM_INFERENCE_STEPS", "20"))
 NUM_OUTPUTS = int(os.getenv("NUM_OUTPUTS", "1"))
