@@ -1,0 +1,27 @@
+# Requirements für RAG-Indexierungs-Pipeline
+
+# MongoDB (für Metadaten)
+pymongo>=4.7.0
+
+# FAISS - Vektor-Datenbank
+faiss-cpu>=1.7.4  # Für CPU-Version
+# faiss-gpu>=1.7.4  # Für GPU-Version (optional, schneller)
+
+# Text-Chunking und Token-Counting
+tiktoken>=0.5.0
+
+# Embedding-Generierung
+sentence-transformers>=2.2.0
+torch>=2.0.0
+
+# Numerische Operationen
+numpy>=1.24.0
+
+# Progress Bars
+tqdm>=4.65.0
+
+# Bestehende Dependencies
+requests>=2.31.0
+wikipedia>=1.4.0
+firecrawl
+
