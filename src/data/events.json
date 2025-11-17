@@ -1,0 +1,8 @@
+[
+  { "id": "e1", "name": "Montreal World Cup", "country": "CAN", "date": "2025-11-15", "city": "Montreal", "results": { "a1": 25, "a2": 18, "a3": 15, "a4": 12, "a5": 10, "a6": 8, "a7": 6, "a8": 4, "a9": 2 } },
+  { "id": "e2", "name": "Salt Lake City World Cup", "country": "USA", "date": "2025-12-06", "city": "Salt Lake City", "results": { "a2": 25, "a1": 18, "a4": 15, "a3": 12, "a5": 10, "a6": 8, "a7": 6, "a10": 4, "a11": 2 } },
+  { "id": "e3", "name": "Dresden World Cup", "country": "GER", "date": "2026-01-10", "city": "Dresden", "results": { "a3": 25, "a4": 18, "a1": 15, "a2": 12, "a5": 10, "a8": 8, "a7": 6, "a9": 4, "a12": 2 } },
+  { "id": "e4", "name": "Dordrecht World Cup", "country": "NED", "date": "2026-01-24", "city": "Dordrecht", "results": { "a1": 25, "a6": 18, "a3": 15, "a4": 12, "a2": 10, "a5": 8, "a8": 6, "a7": 4, "a9": 2 } },
+  { "id": "e5", "name": "Seoul World Cup", "country": "KOR", "date": "2026-02-14", "city": "Seoul", "results": { "a4": 25, "a2": 18, "a1": 15, "a5": 12, "a6": 10, "a3": 8, "a7": 6, "a8": 4, "a10": 2 } },
+  { "id": "e6", "name": "Tokyo Finals", "country": "JPN", "date": "2026-03-07", "city": "Tokyo", "results": { "a2": 25, "a1": 18, "a3": 15, "a4": 12, "a5": 10, "a7": 8, "a8": 6, "a6": 4, "a9": 2 } }
+]

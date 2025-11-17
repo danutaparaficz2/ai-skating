@@ -1,0 +1,22 @@
+[
+  { "id": "a1", "name": "Kristen Santos-Griswold", "country": "USA", "worldRank": 1, "priceM": 50, "form": 91, "totalPoints": 0, "priceHistory": [50, 50, 49] },
+  { "id": "a2", "name": "Xandra Velzeboer", "country": "NED", "worldRank": 2, "priceM": 48, "form": 89, "totalPoints": 0, "priceHistory": [48, 48, 47] },
+  { "id": "a3", "name": "Steven Dubois", "country": "CAN", "worldRank": 3, "priceM": 47, "form": 88, "totalPoints": 0, "priceHistory": [47, 47, 46] },
+  { "id": "a4", "name": "William Dandjinou", "country": "CAN", "worldRank": 4, "priceM": 45, "form": 86, "totalPoints": 0, "priceHistory": [45, 45, 44] },
+  { "id": "a5", "name": "Jens van ’t Wout", "country": "NED", "worldRank": 5, "priceM": 43, "form": 85, "totalPoints": 0, "priceHistory": [43, 43, 42] },
+  { "id": "a6", "name": "Florence Brunelle", "country": "CAN", "worldRank": 6, "priceM": 41, "form": 83, "totalPoints": 0, "priceHistory": [41, 41, 40] },
+  { "id": "a7", "name": "Hanne Desmet", "country": "BEL", "worldRank": 7, "priceM": 39, "form": 82, "totalPoints": 0, "priceHistory": [39, 39, 38] },
+  { "id": "a8", "name": "Choi Min-jeong", "country": "KOR", "worldRank": 8, "priceM": 37, "form": 81, "totalPoints": 0, "priceHistory": [37, 37, 36] },
+  { "id": "a9", "name": "Park Ji-won", "country": "KOR", "worldRank": 9, "priceM": 35, "form": 79, "totalPoints": 0, "priceHistory": [35, 35, 34] },
+  { "id": "a10", "name": "Michelle Velzeboer", "country": "NED", "worldRank": 10, "priceM": 34, "form": 78, "totalPoints": 0, "priceHistory": [34, 34, 33] },
+  { "id": "a11", "name": "Shaolin Sándor Liu", "country": "CHN", "worldRank": 11, "priceM": 32, "form": 77, "totalPoints": 0, "priceHistory": [32, 32, 31] },
+  { "id": "a12", "name": "Suzanne Schulting", "country": "NED", "worldRank": 12, "priceM": 31, "form": 76, "totalPoints": 0, "priceHistory": [31, 31, 30] },
+  { "id": "a13", "name": "Stijn Desmet", "country": "BEL", "worldRank": 13, "priceM": 29, "form": 74, "totalPoints": 0, "priceHistory": [29, 29, 28] },
+  { "id": "a14", "name": "Kim Gilette", "country": "FRA", "worldRank": 14, "priceM": 27, "form": 73, "totalPoints": 0, "priceHistory": [27, 27, 26] },
+  { "id": "a15", "name": "Yara van Kerkhof", "country": "NED", "worldRank": 15, "priceM": 25, "form": 72, "totalPoints": 0, "priceHistory": [25, 25, 24] },
+  { "id": "a16", "name": "Rikki Doak", "country": "CAN", "worldRank": 16, "priceM": 23, "form": 70, "totalPoints": 0, "priceHistory": [23, 23, 22] },
+  { "id": "a17", "name": "Abzal Azhgaliyev", "country": "KAZ", "worldRank": 17, "priceM": 21, "form": 69, "totalPoints": 0, "priceHistory": [21, 21, 20] },
+  { "id": "a18", "name": "Paal André Kjell", "country": "NOR", "worldRank": 18, "priceM": 19, "form": 67, "totalPoints": 0, "priceHistory": [19, 19, 18] },
+  { "id": "a19", "name": "Fan Kexin", "country": "CHN", "worldRank": 19, "priceM": 17, "form": 65, "totalPoints": 0, "priceHistory": [17, 17, 16] },
+  { "id": "a20", "name": "Itzhak de Laat", "country": "NED", "worldRank": 20, "priceM": 15, "form": 63, "totalPoints": 0, "priceHistory": [15, 15, 14] }
+]

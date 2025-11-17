@@ -1,0 +1,21 @@
+{
+  "global": [
+    { "user": "SkateBrain", "points": 312 },
+    { "user": "IceMasters", "points": 296 },
+    { "user": "BladeStorm", "points": 284 }
+  ],
+  "countries": [
+    { "country": "NED", "user": "LowlandsEdge", "points": 210 },
+    { "country": "KOR", "user": "HanRockets", "points": 205 },
+    { "country": "CAN", "user": "MapleGlide", "points": 201 }
+  ],
+  "privateLeague": {
+    "name": "Friends League",
+    "code": "JOIN-8X3K",
+    "table": [
+      { "user": "You", "points": 0 },
+      { "user": "Ava", "points": 202 },
+      { "user": "Noah", "points": 187 }
+    ]
+  }
+}
